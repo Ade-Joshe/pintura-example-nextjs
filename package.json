@@ -15,7 +15,7 @@
     "@pqina/filepond-plugin-image-editor": "8.x",
     "@pqina/pintura": "^8.x",
     "@pqina/react-pintura": "^9.x",
-    "next": "^13",
+    "next": "^15",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
